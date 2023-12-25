@@ -1,1 +1,2 @@
-# NextLearn
+# NextLearn course
+# First Next.js app
