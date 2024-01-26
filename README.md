@@ -8,4 +8,4 @@ Credentials to login
 email: user@nextmail.com 
 pass: 123456
 
-My Vercel build https://next-learn-5p24ibtuz-gerasmnko.vercel.app/
+My Vercel build https://next-learn-phi-navy.vercel.app/
